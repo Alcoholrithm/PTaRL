@@ -1,0 +1,6 @@
+torch
+pytorch_lightning
+scikit-learn
+numpy
+tqdm
+einops
