@@ -1,0 +1,7 @@
+__pycache__/
+data_cache/
+lightning_logs/
+temporary*/
+*.ipynb
+*_test*
+.pytest_cache/
