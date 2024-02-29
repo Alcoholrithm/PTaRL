@@ -1,4 +1,4 @@
-# PyTorch Lightning implementation of PTaRL: Prototype-based Tabular Representation Learning via Space Calibration
+# PTaRL
 
 Welcome to the PyTorch Lightning implementation of PTaRL: Prototype-based Tabular Representation Learning via Space Calibration ([ICLR'2024](https://openreview.net/forum?id=G32oY4Vnm8&referrer=%5Bthe%20profile%20of%20Hangting%20Ye%5D(%2Fprofile%3Fid%3D~Hangting_Ye1))). 
 
